@@ -1,0 +1,2 @@
+## About
+Personal notes and key learning points from the [Udemy](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) course "_Mathematical Foundations of Machine Learning_". 
