@@ -1,2 +1,2 @@
 ## About
-My personal notes and implementation of codes to reinforce my knowledge on the key Mathemetics essential for Data Science.
+My personal notes and implementation of codes to reinforce my understanding on the key Mathematics knowledge essential for Data Science.
